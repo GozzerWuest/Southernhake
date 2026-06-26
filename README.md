@@ -7,7 +7,7 @@ This repository contains the code and processed data to reproduce Figures 2, 3A,
 
 *Published in Fisheries Management and Ecology*
 
-DOI: [Insert DOI when available]
+DOI: [to be updated]
 
 ## Repository structure
 Southernhake/
